@@ -1,0 +1,1 @@
+In this game, the computer picks a random number within a range, and the player has to guess what it is. After each guess, the game will give hints about whether the guess was too high or too low. The game continues until the player guesses the correct number.
